@@ -1,0 +1,25 @@
+# RICONOSCIMENTI
+
+### Contributi al Progetto (Data Mining and Text Analytics, A.A. 2025-2026)
+
+Questo progetto è stato interamente sviluppato dal team composto da:
+* **Marisol Biondo** (M.B.)
+* **Anna Chiara Biselli** (A.C.B.)
+* **Aurora Michielin** (A.M.)
+
+### Dettaglio del Lavoro e Fonti
+
+* **Piattaforma e Repository:** Il codice e la documentazione finale sono gestiti tramite il repository GitHub: `https://github.com/biondomarisol-commits/Walmart-Sales-Prediction-Project.git`.
+* **Dataset:** Il dataset `Walmart_Store_sales.csv`, utilizzato come fonte primaria per l'addestramento dei modelli.
+* **Sviluppo Modelli:** Le librerie `scikit-learn` e `tensorflow` sono state cruciali per l'implementazione dei modelli di regressione e Deep Learning presenti in `Prediction_model.py`.
+* **Piattaforme di Generative AI:** [Inserire qui una nota onesta sull'utilizzo di strumenti come ChatGPT/Bard/Gemini per la ricerca, la stesura di parti di codice o il debugging, se applicabile].
+
+### Suddivisione dei Compiti (Pipeline)
+
+La pipeline del progetto è stata sviluppata con la seguente suddivisione delle responsabilità:
+
+| Autore | Iniziali | Compiti Svolti |
+| :--- | :--- | :--- |
+| Marisol Biondo | M.B. | Analisi Esplorativa dei Dati (EDA), implementazione e valutazione del modello di Regressione Lineare. |
+| Anna Chiara Biselli | A.C.B. | Pre-elaborazione e pulizia dei dati, Feature Engineering e implementazione del modello di Rete Neurale Multilayer Perceptron (MLP). |
+| Aurora Michielin | A.M. | Configurazione dell'ambiente virtuale (Conda), risoluzione dei problemi (debugging) e stesura completa della documentazione (README, LICENSE, ACKNOWLEDGMENTS). |
