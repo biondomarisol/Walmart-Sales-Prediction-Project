@@ -1,4 +1,4 @@
-# Walmart weekly sales prediction
+# Walmart weekly sales prediction model
 
 > A Machine Learning project to forecast the weekly sales of Walmart stores. This project compares the effectiveness of a **Linear Regression** model against a **Neural Network (MLP)**, featuring a detailed analysis of how holidays and seasonality impact revenues.
 
@@ -18,7 +18,7 @@ The `Prediction_model.py` script implements the full Machine Learning pipeline, 
 
 * **Date transformation:** the `Date` column is converted into a datetime object to extract crucial temporal features: `WeekOfYear` and `Month`.
 * **Store encoding:** the categorical variable `Store` is processed using **One-Hot Encoding** to prevent the model from inferring incorrect ordinal relationships.
-* **Data scaling:** the continuous features (including CPI, Unemployment, and the newly engineered features) are scaled using `StandardScaler`. This is a critical step to ensure optimal performance, especially for the **MLP Regressor**.
+* **Data scaling:** the continuous features (including CPI, unemployment, and the newly engineered features) are scaled using `StandardScaler`. This is a critical step to ensure optimal performance, especially for the **MLP Regressor**.
 
 ### Models compared 
 
