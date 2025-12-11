@@ -26,8 +26,8 @@ Two models were trained and evaluated to assess performance and complexity trade
 
 | Model | Type | Rationale |
 | :--- | :--- | :--- |
-| **Linear Regression** | Benchmark statistical model | Provides a transparent baseline to understand the linear relationships between features and sales. |
-| **MLP Regressor** | Neural Network | Used to capture complex, non-linear interactions within the dataset, potentially leading to higher accuracy. |
+| **Linear Regression** | Benchmark statistical model | Provides a transparent baseline to understand the linear relationships between features and sales |
+| **MLP Regressor** | Neural Network | Used to capture complex, non-linear interactions within the dataset, potentially leading to higher accuracy |
 
 ## Data utilized
 
@@ -35,14 +35,14 @@ The project relies on the `Walmart_Store_sales.csv` dataset, which covers weekly
 
 | Column | Type | Role |
 | :--- | :--- | :--- |
-| **Weekly\_Sales** | Float | **Target** Variable (weekly sales). |
-| **Store** | Int | Store ID. |
-| **Date** | Date | Sales date (used for feature engineering). |
-| **Holiday\_Flag** | Int | 1 if it is a holiday week, 0 otherwise. |
-| **Temperature** | Float | Average temperature in the region. |
-| **Fuel\_Price** | Float | Fuel price in the region. |
-| **CPI** | Float | Consumer price index (inflation). |
-| **Unemployment** | Float | Unemployment rate. |
+| **Weekly\_Sales** | Float | **Target** Variable |
+| **Store** | Int | Store ID |
+| **Date** | Date | Sales date (used for feature engineering) |
+| **Holiday\_Flag** | Int | 1 if it is a holiday week, 0 otherwise |
+| **Temperature** | Float | Average temperature in the region |
+| **Fuel\_Price** | Float | Fuel price in the region |
+| **CPI** | Float | Consumer price index (inflation) |
+| **Unemployment** | Float | Unemployment rate |
 
 ---
 
