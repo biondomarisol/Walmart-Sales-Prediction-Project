@@ -14,9 +14,9 @@ This project was entirely developed by the team composed of:
 
 About the authors' contribution, here is how we went ahead and developed the project pipeline.
 
-* A.C.B. and M.B ran extensive research over the Internet to explore modeling approaches.
+* A.C.B. and M.B ran extensive research over the Internet to explore modeling approaches and datasets.
 * A.M. checked out the initial project steps and assisted in code structure using Generative AI platforms such as ChatGPT and Gemini.
-* M.B. and A.M. dealt with the specific code implementation and debugging using Visual Studio Code and assisted by Generative AI tools like ChatGPT for troubleshooting and best practice suggestions.
+* M.B. and A.M. dealt with the specific code implementation and debugging using Visual Studio Code and assisted by Generative AI tools like Gemini for troubleshooting and best practice suggestions.
 * A.C.B. and A.M. collaborated to finalize and wrap up the core modeling code (`Prediction_model.py`).
 * M.B. wrote the comprehensive documentation.
 * All team members worked together to ensure the final version of the project was uploaded to the GitHub repository.
@@ -26,6 +26,4 @@ About the authors' contribution, here is how we went ahead and developed the pro
 The authors of the project acknowledge the following platforms and resources:
 
 * Kaggle.com: this platform has been broadly used to gather the initial dataset (`Walmart_Store_sales.csv`) and access information helpful for project scoping and methodology.
-* Dataset: the `Walmart_Store_sales.csv` dataset, used as the primary source for model training.
-* Development tools: the `scikit-learn` and `tensorflow` libraries were crucial for implementing the regression and Deep Learning models in `Prediction_model.py`.
 * Generative AI Platforms (ChatGPT/Gemini): these tools were utilized honestly and transparently for initial research, assisting with code structure, and debugging specific programming issues.
