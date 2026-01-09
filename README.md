@@ -63,7 +63,7 @@ Ensure you have Python (version 3.x) installed and are using a virtual environme
 
 1. **Clone the GitHub repository:**
     ```bash
-    git clone [https://github.com/biondomarisol/Walmart-Sales-Prediction-Project.git](https://github.com/biondomarisol/Walmart-Sales-Prediction-Project.git)
+    git clone https://github.com/biondomarisol/Walmart-Sales-Prediction-Project.git
     ```
 2. **Navigate to the project directory:**
     ```bash
